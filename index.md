@@ -73,13 +73,13 @@ The breach of sensitive personal and business data would subject these firms to 
 ![DM- Outsider Account Abuse](https://user-images.githubusercontent.com/90997678/133940257-5134dc3a-a0d1-4409-bbd5-4983753189f4.jpg)
 
 ## 5. Intelligence Buy-In
-### 5.1 Intelligence Buy-In: Risk and Value of Enhanced Security:
+### 5.1 Intelligence Buy-In: Risk and Value of Enhanced Security
 Accounting service firms hold sensitive personal and business information that is an attractive target of data breaches.
 The high business value of continuous data availability and operations make these firms particularly attractive targets of ransomware.
 Data breaches and disruptions to data availability and operations have significant regulatory, litigation, and reputational costs for these firms.
 Because of the above, enhanced security has high value for these firms.
 
-### 5.2 Intelligence Buy-In: AI Capabilities and Value:
+### 5.2 Intelligence Buy-In: AI Capabilities and Value
 Small and medium-sized accounting service firms often have high demand for limited cybersecurity resources and personnel.
 The implementation of AI automation for cybersecurity tasks will help to free cybersecurity resources and personnel for higher priority tasks.
 The large number of client, vendor, and other third-party accounts, communication channels, and system connections limits the ability of cybersecurity personnel to detect anomalous patterns in related activity data.
