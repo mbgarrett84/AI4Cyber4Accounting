@@ -3,8 +3,6 @@ Matt Garrett
 
 Indiana University
 
-AI For Cybersecurity
-
-T596
+T596: AI For Cybersecurity
 
 Fall 2021
