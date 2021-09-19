@@ -1,4 +1,4 @@
-                                          DISCLAIMER: All content on this site is for educational purposes only.
+DISCLAIMER: All content on this site is for educational purposes only.
 ## AI4Cyber and U.S. Small and Medium-Sized Accounting Service Firms
 ### Table of Contents
 
@@ -11,25 +11,71 @@
 7. References
 
 ```markdown
-### 1.1 Industry Background: Overview
-Small and medium-sized accounting service firms are defined as all accounting firms smaller
-than the “Big Four,” Deloitte, PwC, EY, and KPMG.
+<img width="646" alt="industry background - overview" src="https://user-images.githubusercontent.com/90997678/133937792-ca963aff-0608-44c9-9880-019b772beb8f.PNG">
 
-**Firms**: approximately 93,000
-
-**Primary Services**: bookkeeping, payroll, financial statement preparation, tax planning and compliance, and auditing
-
-**Employment**: approximately 250,000 
-
-**Revenue**: approximately $55 billion
 ```
+
 ```markdown
-### 1.2. Industry Background: Importance of Information Technology
-**Communications**: firm staff use information technology, especially e-mail, to timely communicate with clients, vendors, and other third-parties.
 
-**Processing and storage**: firms process and store large volumes of data.
+```
 
-**Data Reception and Transmission**: firms receive and transmit data to and from clients and third parties using computer applications.
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+```markdown
+
+```
+
+
 
 
 
