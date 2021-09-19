@@ -1,4 +1,4 @@
-DISCLAIMER: All content on this site is for educational purposes only.
+Disclaimer: All content on this site is for educational purposes only.
 ## *AI4Cyber & U.S. Small and Medium-Sized Accounting Service Firms*
 ## Table of Contents
 
@@ -13,7 +13,7 @@ DISCLAIMER: All content on this site is for educational purposes only.
 2. Diamond Models
 3. Intelligence Buy-In
 
-[C. About Us and References](#c-about-us-and-references)
+[C. About Us and Sources](#c-about-us-and-references)
 
 1. Group
 2. Sources
