@@ -75,7 +75,7 @@ The breach of sensitive personal and business data would subject these firms to 
 ![DM- E-mailed Malware](https://user-images.githubusercontent.com/90997678/133940244-d97d8d05-a60d-4324-a815-fc97c6e3b7bd.jpg)
 ![DM- Other Malware](https://user-images.githubusercontent.com/90997678/133940248-04b9a0ce-5ce9-4781-9f8c-82121ef841b6.jpg)
 ![DM- Insider Account Abuse](https://user-images.githubusercontent.com/90997678/133940253-2eeb5e59-f8f4-4b1d-892e-9d74f0d4347b.jpg)
-![DM- Outsider Account Abuse](https://user-images.githubusercontent.com/90997678/133940257-5134dc3a-a0d1-4409-bbd5-4983753189f4.jpg)
+![DM- Other Account Abuse](https://user-images.githubusercontent.com/90997678/133944640-9f4c5871-0e7a-4cde-bcc2-caa70c65c0db.jpg)
 
 ## 5. Intelligence Buy-In
 ### 5.1 Intelligence Buy-In: Risk and Value of Enhanced Security
