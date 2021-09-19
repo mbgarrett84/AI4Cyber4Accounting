@@ -4,19 +4,19 @@ DISCLAIMER: All content on this site is for educational purposes only.
 
 [A. Industry Background](#a-industry-background)
  
-  1. Background on Industry
-  2. Threat Trends
+1. Background on Industry
+2. Threat Trends
 
 [B. Threat Modelling](#b-threat-modelling)
 
-  3. Critical Asset Identification
-  4. Diamond Models
-  5. Intelligence Buy-In
+3. Critical Asset Identification
+4. Diamond Models
+5. Intelligence Buy-In
 
 [C. About Us and References](#c-about-us-and-references)
 
-  6. Group
-  7. Sources
+6. Group
+7. Sources
 
 ```
 ```
