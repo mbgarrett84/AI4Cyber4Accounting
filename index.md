@@ -2,16 +2,20 @@ DISCLAIMER: All content on this site is for educational purposes only.
 # AI4Cyber and U.S. Small and Medium-Sized Accounting Service Firms
 ## Table of Contents
 
-1. Industry Background
-2. Threat Trends
-3. Critical Asset Identification
-4. Diamond Models
-5. Intelligence Buy-In
+A. Industry Background
+  1. Industry Background
+  2. Threat Trends
+B. Threat Modelling
+  3. Critical Asset Identification
+  4. Diamond Models
+  5. Intelligence Buy-In
+C. About Us and References
 6. Group
 7. References
 
-## 1. Industry Background
-### 1.1 Industry Background: Overview
+# A. Industry Background
+## 1. Background on Industry
+### 1.1 Background Industry: Overview
 Small and medium-sized accounting service firms are defined as all accounting firms
 smaller than the “Big Four,” Deloitte, PwC, EY, and KPMG.
 
@@ -23,7 +27,7 @@ smaller than the “Big Four,” Deloitte, PwC, EY, and KPMG.
 
 **Revenue:** approximately $55 billion
 
-### 1.2 Industry Background: Importance of Information Technology
+### 1.2 Background on Industry: Importance of Information Technology
 **Communications:** firm staff use information technology, especially e-mail, to timely communicate with clients, vendors, and other third-parties.
 
 **Processing and storage:** firms process and store large volumes of data.
@@ -40,6 +44,7 @@ Accounting service firm employees and systems often interact with many external 
 **Data Breaches:**
 The sensitive information that accounting service firms hold makes these firms targets of data breaches.  These firms are particularly susceptible to data breaches that arise from inappropriate access to the numerous employee, client, and vendor accounts that have access to this sensitive information.
 
+# B. Threat Modelling
 ## 3. Critical Asset Identification
 Nearly all firm employees use these critical assets as part of their daily activities.
 The business models of these firms depends on the reliable integrity and availability of these critical assets.
@@ -75,6 +80,7 @@ The implementation of AI automation for cybersecurity tasks will help to free cy
 The large number of client, vendor, and other third-party accounts, communication channels, and system connections limits the ability of cybersecurity personnel to detect anomalous patterns in related activity data.
 The implementation of AI pattern recognition can help cybersecurity personnel to find actionable patterns in this voluminous activity data. 
 
+# About Us and References
 ## 6. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, and intelligence buy-in information and created this webpage and the related slide deck.
 
