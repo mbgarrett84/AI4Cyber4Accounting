@@ -1,5 +1,5 @@
 DISCLAIMER: All content on this site is for educational purposes only.
-# AI4Cyber and U.S. Small and Medium-Sized Accounting Service Firms
+## AI4Cyber and U.S. Small and Medium-Sized Accounting Service Firms
 ## Table of Contents
 
 A. Industry Background
