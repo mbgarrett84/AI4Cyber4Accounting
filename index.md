@@ -21,7 +21,7 @@ C. About Us and References
 # A. Industry Background
 ## 1. Background on Industry
 ### 1.1 Background Industry: Overview
-Small and medium-sized accounting service firms are defined as all accounting firms
+Small and medium-sized accounting service firms are defined as all U.S. accounting firms
 smaller than the “Big Four,” Deloitte, PwC, EY, and KPMG.
 
 **Firms:** approximately 93,000
