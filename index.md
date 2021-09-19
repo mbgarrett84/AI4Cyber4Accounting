@@ -2,18 +2,18 @@ DISCLAIMER: All content on this site is for educational purposes only.
 ## AI4Cyber & U.S. Small and Medium-Sized Accounting Service Firms
 ## Table of Contents
 
-A. Industry Background
+[A. Industry Background](#a-industry-background)
  
   1. Background on Industry
   2. Threat Trends
 
-B. Threat Modelling
+[B. Threat Modelling](#b-threat-modelling)
 
   3. Critical Asset Identification
   4. Diamond Models
   5. Intelligence Buy-In
 
-C. About Us and References
+[C. About Us and References](#c-about-us-and-references)
 
   6. Group
   7. References
@@ -21,7 +21,7 @@ C. About Us and References
 ```
 ```
 # A. Industry Background
-
+#### [Return to Table of Contents](#table-of-contents)
 ## 1. Background on Industry
 ### 1.1 Background Industry: Overview
 Small and medium-sized accounting service firms are defined as all U.S. accounting firms
@@ -55,7 +55,7 @@ The sensitive information that accounting service firms hold makes these firms t
 ```
 ```
 # B. Threat Modelling
-
+#### [Return to Table of Contents](#table-of-contents)
 ## 3. Critical Asset Identification
 Nearly all firm employees use these critical assets as part of their daily activities.
 The business models of these firms depends on the reliable integrity and availability of these critical assets.
@@ -100,6 +100,7 @@ The implementation of AI pattern recognition can help cybersecurity personnel to
 ```
 ```
 # C. About Us and References
+#### [Return to Table of Contents](#table-of-contents)
 ## 6. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, and intelligence buy-in information and created this webpage and the related slide deck.
 
