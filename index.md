@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+                                          DISCLAIMER: All content on this site is for educational purposes only.
+## AI4Cyber and U.S. Small and Medium-Sized Accounting Service Firms
+### Table of Contents
 
-You can use the [editor on GitHub](https://github.com/mbgarrett84/AI4Cyber4Accounting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Industry Background
+2. Threat Trends
+3. Critical Asset Identification
+4. Diamond Models
+5. Intelligence Buy-In
+6. Group
+7. References
 
 ```markdown
-Syntax highlighted code block
+### 1.1 Industry Background: Overview
+Small and medium-sized accounting service firms are defined as all accounting firms smaller
+than the “Big Four,” Deloitte, PwC, EY, and KPMG.
 
-# Header 1
-## Header 2
-### Header 3
+**Firms**: approximately 93,000
 
-- Bulleted
-- List
+**Primary Services**: bookkeeping, payroll, financial statement preparation, tax planning and compliance, and auditing
 
-1. Numbered
-2. List
+**Employment**: approximately 250,000 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Revenue**: approximately $55 billion
 ```
+```markdown
+### 1.2. Industry Background: Importance of Information Technology
+**Communications**: firm staff use information technology, especially e-mail, to timely communicate with clients, vendors, and other third-parties.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Processing and storage**: firms process and store large volumes of data.
 
-### Jekyll Themes
+**Data Reception and Transmission**: firms receive and transmit data to and from clients and third parties using computer applications.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbgarrett84/AI4Cyber4Accounting/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
