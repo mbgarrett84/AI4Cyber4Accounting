@@ -104,13 +104,13 @@ The implementation of AI pattern recognition can help cybersecurity personnel to
 ## 6. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, and intelligence buy-in information and created this webpage and the related slide deck.
 
-## 7. References
-1. “Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
+## 7. Sources
+“Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
  
-2. Statista Research Department. (2021, April 8). Leading accounting firms in the United States in 2020, by U.S. revenue (in billion U.S. dollars). Retrieved September 4, 2021 from https://www.statista.com/statistics/188725/25-largest-us-accounting-firms-by-net-revenue-2010/
+Statista Research Department. (2021, April 8). Leading accounting firms in the United States in 2020, by U.S. revenue (in billion U.S. dollars). Retrieved September 4, 2021 from https://www.statista.com/statistics/188725/25-largest-us-accounting-firms-by-net-revenue-2010/
  
-3. Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
+Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
  
-4. Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
+Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
 
 
