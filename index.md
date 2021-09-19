@@ -3,13 +3,18 @@ DISCLAIMER: All content on this site is for educational purposes only.
 ## Table of Contents
 
 A. Industry Background
-  1. Industry Background
+ 
+  1. Background on Industry
   2. Threat Trends
+
 B. Threat Modelling
+
   3. Critical Asset Identification
   4. Diamond Models
   5. Intelligence Buy-In
+
 C. About Us and References
+
   6. Group
   7. References
 
@@ -80,7 +85,7 @@ The implementation of AI automation for cybersecurity tasks will help to free cy
 The large number of client, vendor, and other third-party accounts, communication channels, and system connections limits the ability of cybersecurity personnel to detect anomalous patterns in related activity data.
 The implementation of AI pattern recognition can help cybersecurity personnel to find actionable patterns in this voluminous activity data. 
 
-# About Us and References
+# C. About Us and References
 ## 6. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, and intelligence buy-in information and created this webpage and the related slide deck.
 
