@@ -2,18 +2,18 @@ DISCLAIMER: All content on this site is for educational purposes only.
 ## AI4Cyber & U.S. Small and Medium-Sized Accounting Service Firms
 ## Table of Contents
 
-A. Industry Background
+[A. Industry Background](https://github.com/mbgarrett84/AI4Cyber4Accounting/blob/gh-pages/index.md#a-industry-background)
  
   1. Background on Industry
   2. Threat Trends
 
-B. Threat Modelling
+[B. Threat Modelling](https://github.com/mbgarrett84/AI4Cyber4Accounting/blob/gh-pages/index.md#b-threat-modelling) 
 
   3. Critical Asset Identification
   4. Diamond Models
   5. Intelligence Buy-In
 
-C. About Us and References
+[C. About Us and References](https://github.com/mbgarrett84/AI4Cyber4Accounting/blob/gh-pages/index.md#c-about-us-and-references)
 
   6. Group
   7. References
