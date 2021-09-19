@@ -56,7 +56,7 @@ The sensitive information that accounting service firms hold makes these firms t
 ```
 # B. Threat Modelling
 ##### [Return to Table of Contents](#table-of-contents)
-## 3. Critical Asset Identification
+## 1. Critical Asset Identification
 Nearly all firm employees use these critical assets as part of their daily activities.
 The business models of these firms depends on the reliable integrity and availability of these critical assets.
 The breach of sensitive personal and business data would subject these firms to breach reporting requirements and substantial regulatory, litigation, and reputational costs.
@@ -71,15 +71,15 @@ The breach of sensitive personal and business data would subject these firms to 
 
 **Data:** sensitive personal and business information, such as SSNs, PPI, PHI, tax identifiers, and trade secrets
 
-## 4. Diamond Models
+## 2. Diamond Models
 ![DM- Phishing Scheme](https://user-images.githubusercontent.com/90997678/133940239-465ebc2d-d2d7-4b61-9ad1-a3de69d4a91f.jpg)
 ![DM- E-mailed Malware](https://user-images.githubusercontent.com/90997678/133940244-d97d8d05-a60d-4324-a815-fc97c6e3b7bd.jpg)
 ![DM- Other Malware](https://user-images.githubusercontent.com/90997678/133940248-04b9a0ce-5ce9-4781-9f8c-82121ef841b6.jpg)
 ![DM- Insider Account Abuse](https://user-images.githubusercontent.com/90997678/133940253-2eeb5e59-f8f4-4b1d-892e-9d74f0d4347b.jpg)
 ![DM- Other Account Abuse](https://user-images.githubusercontent.com/90997678/133944640-9f4c5871-0e7a-4cde-bcc2-caa70c65c0db.jpg)
 
-## 5. Intelligence Buy-In
-### 5.1 Intelligence Buy-In: Risk and Value of Enhanced Security
+## 3. Intelligence Buy-In
+### 3.1 Intelligence Buy-In: Risk and Value of Enhanced Security
 Accounting service firms hold sensitive personal and business information that is an attractive target of data breaches.
 
 The high business value of continuous data availability and operations make these firms particularly attractive targets of ransomware.
@@ -88,7 +88,7 @@ Data breaches and disruptions to data availability and operations have significa
 
 Because of the above, enhanced security has high value for these firms.
 
-### 5.2 Intelligence Buy-In: AI Capabilities and Value
+### 3.2 Intelligence Buy-In: AI Capabilities and Value
 Small and medium-sized accounting service firms often have high demand for limited cybersecurity resources and personnel.
 
 The implementation of AI automation for cybersecurity tasks will help to free cybersecurity resources and personnel for higher priority tasks.
@@ -101,10 +101,10 @@ The implementation of AI pattern recognition can help cybersecurity personnel to
 ```
 # C. About Us and References
 ##### [Return to Table of Contents](#table-of-contents)
-## 6. Group
+## 1. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, and intelligence buy-in information and created this webpage and the related slide deck.
 
-## 7. Sources
+## 2. Sources
 “Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
  
 Statista Research Department. (2021, April 8). Leading accounting firms in the United States in 2020, by U.S. revenue (in billion U.S. dollars). Retrieved September 4, 2021 from https://www.statista.com/statistics/188725/25-largest-us-accounting-firms-by-net-revenue-2010/
