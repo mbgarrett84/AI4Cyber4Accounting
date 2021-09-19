@@ -10,8 +10,8 @@ B. Threat Modelling
   4. Diamond Models
   5. Intelligence Buy-In
 C. About Us and References
-6. Group
-7. References
+  6. Group
+  7. References
 
 # A. Industry Background
 ## 1. Background on Industry
