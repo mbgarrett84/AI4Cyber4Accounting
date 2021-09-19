@@ -19,6 +19,8 @@ C. About Us and References
   7. References
 
 # A. Industry Background
+```
+```
 ## 1. Background on Industry
 ### 1.1 Background Industry: Overview
 Small and medium-sized accounting service firms are defined as all U.S. accounting firms
@@ -50,6 +52,8 @@ Accounting service firm employees and systems often interact with many external 
 The sensitive information that accounting service firms hold makes these firms targets of data breaches.  These firms are particularly susceptible to data breaches that arise from inappropriate access to the numerous employee, client, and vendor accounts that have access to this sensitive information.
 
 # B. Threat Modelling
+```
+```
 ## 3. Critical Asset Identification
 Nearly all firm employees use these critical assets as part of their daily activities.
 The business models of these firms depends on the reliable integrity and availability of these critical assets.
@@ -86,6 +90,8 @@ The large number of client, vendor, and other third-party accounts, communicatio
 The implementation of AI pattern recognition can help cybersecurity personnel to find actionable patterns in this voluminous activity data. 
 
 # C. About Us and References
+```
+```
 ## 6. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, and intelligence buy-in information and created this webpage and the related slide deck.
 
