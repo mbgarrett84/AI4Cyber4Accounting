@@ -16,7 +16,7 @@ DISCLAIMER: All content on this site is for educational purposes only.
 [C. About Us and References](#c-about-us-and-references)
 
   6. Group
-  7. References
+  7. Sources
 
 ```
 ```
