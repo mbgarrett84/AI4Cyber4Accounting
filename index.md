@@ -9,14 +9,14 @@ DISCLAIMER: All content on this site is for educational purposes only.
 
 [B. Threat Modelling](#b-threat-modelling)
 
-3. Critical Asset Identification
-4. Diamond Models
-5. Intelligence Buy-In
+1. Critical Asset Identification
+2. Diamond Models
+3. Intelligence Buy-In
 
 [C. About Us and References](#c-about-us-and-references)
 
-6. Group
-7. Sources
+1. Group
+2. Sources
 
 ```
 ```
