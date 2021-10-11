@@ -13,10 +13,19 @@ Disclaimer: All content on this site is for educational purposes only.
 2. Diamond Models
 3. Intelligence Buy-In
 
-[C. About Us and Sources](#c-about-us-and-references)
+[C. Data Source Identification and Justification](#c-data-source-identification-and-justification 
+1. Data Source Identification
+2. Data Source Justification
+
+[D. Data Collection Strategies and Summary](#d-data-collection-strategies-and-summary)
+1. Collection Strategies
+2. Summary of Data: Phishing Dataset Example
+
+[E. About Us and Sources](#e-about-us-and-references)
 
 1. Group
 2. Sources
+
 
 ```
 ```
@@ -99,7 +108,48 @@ The implementation of AI pattern recognition can help cybersecurity personnel to
 
 ```
 ```
-# C. About Us and References
+# C. Data Source Identification and Justification
+##### [Return to Table of Contents](#table-of-contents)
+## 1. Data Source Identification: Mendeley Data
+Mendeley Data is a cloud-based repository for data sets.
+It is used by academecians, resarchers, practitioners, and others to store, access, and cite data sets.
+It stores over 29 million data sets, including thousands covering the intersection of artificial intelligence, machine learning, and cybersecurity.
+
+## 2. Data Source Justification
+### 2.1 Data Source Justification: Accessibility
+Mendeley Data is highly economically and technically accessible:
+Access does not require a subscription or fee.
+Data sets are readily available for download or other extraction, access does not require the development or use of APIs.
+Data sets are generally formatted for ease of analysis and implementation.
+
+### 2.2 Date Source Justification: Relevancy
+Mendeley Data contains recent data sets for broad cybersecurity threat trends and for specific threats facing small and medium-sized accounting service firms, including phishing and malware.
+These data sets are specifically constructed and formatted for the purpose of gaining actionable cybersecurity insights.
+```
+```
+# D. Collection Strategies and Data Summary
+##### [Return to Table of Contents](#table-of-contents)
+## 1. Collection Strategies
+Applicable data sets were collected through Mendeley Data’s search function using cybersecurity related search terms, including the specific threats and vulnerabilities most applicable to small and medium-sized accounting service firms.
+Data sets were downloaded and stored as .csv files.
+This approach is especially accessible and flexible.
+Thousands of academicians, researchers, and practitioners have viewed and downloaded applicable cybersecurity-related data sets from this source to train, test, and calibrate their cybersecurity models and applications.
+
+## 2. Summary of Data: Phishing Dataset Example
+Tan 2018 Dataset:
+5000 phishing webpages and 5000 legitimate webpages are provided.
+The phishing webpages were downloaded from Phishtank and OpenPhish from January to May of 2015 and from May to June of 2017.
+The legitimate webpages were determined using Alexa and Common Crawl.
+48 features are provided for each webpage.
+Features relate to the URL name, content of the webpage, and external services.
+
+Sample of Tan 2018 Dataset:
+![image](https://user-images.githubusercontent.com/90997678/136721711-0f199217-f65a-46a7-9d21-4b02e3c5c3ca.png)
+
+
+```
+```
+# E. About Us and References
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, and intelligence buy-in information and created this webpage and the related slide deck.
@@ -112,5 +162,9 @@ Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend
 3. Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
  
 4. Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
+
+5. Tan, Choon Lin (2018), “Phishing Dataset for Machine Learning: Feature Evaluation”, Mendeley Data, V1, doi: 10.17632/h3cgnj8hft.1. Retrieved from https://data.mendeley.com/datasets/h3cgnj8hft/1
+
+
 
 
