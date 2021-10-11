@@ -112,18 +112,24 @@ The implementation of AI pattern recognition can help cybersecurity personnel to
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Data Source Identification: Mendeley Data
 Mendeley Data is a cloud-based repository for data sets.
+
 It is used by academecians, resarchers, practitioners, and others to store, access, and cite data sets.
+
 It stores over 29 million data sets, including thousands covering the intersection of artificial intelligence, machine learning, and cybersecurity.
 
 ## 2. Data Source Justification
 ### 2.1 Data Source Justification: Accessibility
 Mendeley Data is highly economically and technically accessible:
+
 Access does not require a subscription or fee.
+
 Data sets are readily available for download or other extraction, access does not require the development or use of APIs.
+
 Data sets are generally formatted for ease of analysis and implementation.
 
 ### 2.2 Date Source Justification: Relevancy
 Mendeley Data contains recent data sets for broad cybersecurity threat trends and for specific threats facing small and medium-sized accounting service firms, including phishing and malware.
+
 These data sets are specifically constructed and formatted for the purpose of gaining actionable cybersecurity insights.
 ```
 ```
@@ -131,16 +137,24 @@ These data sets are specifically constructed and formatted for the purpose of ga
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Collection Strategies
 Applicable data sets were collected through Mendeley Data’s search function using cybersecurity related search terms, including the specific threats and vulnerabilities most applicable to small and medium-sized accounting service firms.
+
 Data sets were downloaded and stored as .csv files.
+
 This approach is especially accessible and flexible.
+
 Thousands of academicians, researchers, and practitioners have viewed and downloaded applicable cybersecurity-related data sets from this source to train, test, and calibrate their cybersecurity models and applications.
 
 ## 2. Summary of Data: Phishing Dataset Example
 Tan 2018 Dataset:
+
 5000 phishing webpages and 5000 legitimate webpages are provided.
+
 The phishing webpages were downloaded from Phishtank and OpenPhish from January to May of 2015 and from May to June of 2017.
+
 The legitimate webpages were determined using Alexa and Common Crawl.
+
 48 features are provided for each webpage.
+
 Features relate to the URL name, content of the webpage, and external services.
 
 **Sample of Tan 2018 Dataset:**
