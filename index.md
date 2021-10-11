@@ -127,7 +127,7 @@ Mendeley Data contains recent data sets for broad cybersecurity threat trends an
 These data sets are specifically constructed and formatted for the purpose of gaining actionable cybersecurity insights.
 ```
 ```
-# D. Collection Strategies and Data Summary
+# D. Data Collection Strategies and Summary
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Collection Strategies
 Applicable data sets were collected through Mendeley Data’s search function using cybersecurity related search terms, including the specific threats and vulnerabilities most applicable to small and medium-sized accounting service firms.
@@ -143,7 +143,7 @@ The legitimate webpages were determined using Alexa and Common Crawl.
 48 features are provided for each webpage.
 Features relate to the URL name, content of the webpage, and external services.
 
-Sample of Tan 2018 Dataset:
+**Sample of Tan 2018 Dataset:**
 ![image](https://user-images.githubusercontent.com/90997678/136721711-0f199217-f65a-46a7-9d21-4b02e3c5c3ca.png)
 
 
