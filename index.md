@@ -166,7 +166,7 @@ Features relate to the URL name, content of the webpage, and external services.
 # E. About Us and References
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Group
-Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, and intelligence buy-in information and created this webpage and the related slide deck.
+Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, intelligence buy-in, and data source information and created this webpage and the related slide deck.
 
 ## 2. Sources
 1. “Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
