@@ -13,7 +13,7 @@ Disclaimer: All content on this site is for educational purposes only.
 2. Diamond Models
 3. Intelligence Buy-In
 
-[C. Data Source Identification and Justification](#c-data-source-identification-and-justification 
+[C. Data Source Identification and Justification](#c-data-source-identification-and-justification) 
 1. Data Source Identification
 2. Data Source Justification
 
