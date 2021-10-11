@@ -176,7 +176,6 @@ Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend
 3. Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
  
 4. Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
-
 5. Tan, Choon Lin (2018), “Phishing Dataset for Machine Learning: Feature Evaluation”, Mendeley Data, V1, doi: 10.17632/h3cgnj8hft.1. Retrieved from https://data.mendeley.com/datasets/h3cgnj8hft/1
 
 
