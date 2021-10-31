@@ -29,7 +29,7 @@ Disclaimer: All content on this site is for educational purposes only.
 1. Logistic Regression: Phishing
 2. Support Vector Machine: Anomaly Detection
 
-[G. About Us and Sources](#e-about-us-and-references)
+[G. About Us and Sources](#g-about-us-and-references)
 
 1. Group
 2. Sources
@@ -259,7 +259,6 @@ In implementation scenarios with streaming data, this type of visualization coul
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, intelligence buy-in, and data source information, performed the analytics process, and created visuals, this slide deck, and the related website.
-![image](https://user-images.githubusercontent.com/90997678/139599977-5e12b7bd-b72a-40e5-9827-b2fe8bb1c2da.png)
 
 
 ## 2. Sources
