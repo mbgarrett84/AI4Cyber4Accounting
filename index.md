@@ -172,37 +172,37 @@ Features relate to the URL name, content of the webpage, and external services.
 ```
 # E. Analytical Approaches and Justification
 ##### [Return to Table of Contents](#table-of-contents)
-## 1. Logistic Regression: Phishing
-# 1.1 Introduction
+# 1. Logistic Regression: Phishing
+## 1.1 Introduction
 Logistic regression is a statistical analysis method used to predict the likelihood of a particular categorical response for a given set of independent variables.
 The models created through this analysis method can be used for classification.
 Logistic regression will be used here for the purposes of creating a model that classifies phishing e-mails.
-# 1.2 Why This Approach
+## 1.2 Why This Approach
 The assumptions and steps of some other commonly used statistical analysis methods, such as linear regression, prevent their meaningful or productive use with a binary dependent variable.
 Logistic regression models can be trained efficiently, used effectively in the presence of many features, and are easily scalable.
 Logistic regression models are used for classification in several AI for cybersecurity domains, including spam and phishing detection.
-# 1.3 Value Added
+## 1.3 Value Added
 Phishing and phishing-delivered malware constitute one of the most common and costly threats facing small and medium-sized accounting firms.
 In this threat context, even marginal improvements in protection can provide substantial value.
 Logistic regression-based classification models provide additional and dynamic filtering capabilities compared to traditional dictionary-based approaches.
 
-# 1.4 Data Sources Required
+## 1.4 Data Sources Required
 Logistic regression requires a labeled dataset to train. 
 The dependent variable must be binary.
 Multinomial and ordinal logistic regression allow the dependent variable to take on additional values.
 Independent variables can be categorical and quantitative.
 The data set should be of at least modest size and should avoid multicollinearity and outliers.
 
-# 1.5 Major Steps and Justification
+## 1.5 Major Steps and Justification
 
-## 2. Support Vector Machine: Anomaly Detection
-# 2.1 Introduction
+# 2. Support Vector Machine: Anomaly Detection
+## 2.1 Introduction
 Anomaly detection is used to detect outliers in data.
 Support vector machines (SVM) are a class of supervised learning algorithms that are used for classification and work by maximizing the margin separating classes of data.
 An SVM is used here to analyze anomalies in network traffic.
 
 
-# 2.2 Why This Approach
+## 2.2 Why This Approach
 SVMs perform well when there is a clear separation of data.
 SVMs are flexible. 
 Many versions provide various options for hyperparameter tuning.
@@ -210,46 +210,46 @@ Many varieties of kernel function are available.
 SVMs can be more customizable than other anomaly detection methods that primarily rely on summary statistics, for example, analysis based on Gaussian distribution.
 
 
-# 2.3 Value Added
+## 2.3 Value Added
 Anomaly detection systems can greatly assist the efficiency and effectiveness of a firm’s cybersecurity program by automating the task of reviewing large volumes of network activity and presenting only suspicious events for human review.
 These benefits are especially salient to small and medium-sized accounting firm, as these firms have numerous, diverse, and dynamic network connections and activity and often limited cybersecurity personnel and resources.
 
-# 2.4 Data Sources Required
+## 2.4 Data Sources Required
 SVM for anomaly detection uses time-series data.
 Standard SVM algorithms require quantitative data, as distance measures are used.
 Linear SVM requires that the data be linearly separable, but adjustments to the kernel function allow for versions of the algorithm to be used with nonlinearly separable data.
 
-# 2.5 Major Steps and Justification
+## 2.5 Major Steps and Justification
 
 ```
 ```
 # F. Prelimary Visualizations
 ##### [Return to Table of Contents](#table-of-contents)
-## 1. Logistic Regression: Phishing
-# 1.1 Visualization
+# 1. Logistic Regression: Phishing
+## 1.1 Visualization
 
-# 1.2 Data
+## 1.2 Data
 This visualization provides a display of the logistic regression coefficients for the Tan (2018) dataset.
 The Tan (2018) data set contains 10,000 webpages, evenly split between phishing and legitimate, and 48 features relating to URL name, content of the webpage, and external services.
 
-# 1.3 Process
+## 1.3 Process
 
 
-# 1.4 Value
+## 1.4 Value
 The logistic regression coefficients provide the marginal effect of the feature in increasing or decreasing the likelihood that the record is associated with phishing.
 Knowledge of which features are associated with phishing and the strength of this association highlights which features should receive attention in future analytic and other technical implementations and can inform personnel cybersecurity training.
 
 
-## 2. Support Vector Machine: Anomaly Detection
-# 2.1 Visualization
-# 2.2 Data
-# 2.3 Process
+# 2. Support Vector Machine: Anomaly Detection
+## 2.1 Visualization
+## 2.2 Data
+## 2.3 Process
 A suitable data set was acquired and prepared.
 The Palacio (2018) dataset was used in this instance.
 The SVM process was run.
 Appropriate parameters were selected, and the events and support vector were selected for display in a scatterplot.
 
-# 2.4 Value
+## 2.4 Value
 This type of visualization allows one to easily review broad network activity over the time period under review and quickly target events outside of normal ranges.
 In implementation scenarios with streaming data, this type of visualization could be included in cybersecurity dashboards to provide quick access and review of network activity and could be used as a tool to help further refine and tune the parameters of the underlying algorithm.
 
@@ -264,13 +264,9 @@ Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend
 
 ## 2. Sources
 1. “Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
- 
 2. Statista Research Department. (2021, April 8). Leading accounting firms in the United States in 2020, by U.S. revenue (in billion U.S. dollars). Retrieved September 4, 2021 from https://www.statista.com/statistics/188725/25-largest-us-accounting-firms-by-net-revenue-2010/
- 
 3. Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
-
 4.Palacio, Sebastián (2018), “Outlier Detection”, Mendeley Data, V2, doi: 10.17632/g3vxppc8k4.2, Retrieved from https://data.mendeley.com/datasets/g3vxppc8k4/2
- 
 5. Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
 6. Tan, Choon Lin (2018), “Phishing Dataset for Machine Learning: Feature Evaluation”, Mendeley Data, V1, doi: 10.17632/h3cgnj8hft.1. Retrieved from https://data.mendeley.com/datasets/h3cgnj8hft/1
 
