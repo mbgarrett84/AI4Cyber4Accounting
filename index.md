@@ -330,7 +330,7 @@ Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend
 
 3. Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
 
-4.Palacio, Sebastián (2018), “Outlier Detection”, Mendeley Data, V2, doi: 10.17632/g3vxppc8k4.2, Retrieved from https://data.mendeley.com/datasets/g3vxppc8k4/2
+4. Palacio, Sebastián (2018), “Outlier Detection”, Mendeley Data, V2, doi: 10.17632/g3vxppc8k4.2, Retrieved from https://data.mendeley.com/datasets/g3vxppc8k4/2
 
 5. Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
 
