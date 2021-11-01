@@ -136,7 +136,7 @@ The Tan (2018) dataset provides a data to gain insight into one of the most cons
 
 The Palacio (2018) dataset provides data of network activity designed for the purpose of constructing an anomaly detection system. 
 
-This form of automation particularly helpful to small and medium-sized accounting firms, with their numerous, diverse, and dynamic network connections and limited cybersecurity personnel and resourses.
+This form of automation is particularly helpful to small and medium-sized accounting firms, with their numerous, diverse, and dynamic network connections and limited cybersecurity personnel and resourses.
 
 ### 2.3 Data Source Justification: Accessibility
 Mendeley Data is highly economically and technically accessible:
@@ -174,6 +174,7 @@ The legitimate webpages were determined using Alexa and Common Crawl.
 Features relate to the URL name, content of the webpage, and external services, and include both categorical and quatitative data.
 
 **Sample of Tan 2018 Dataset:**
+
 ![image](https://user-images.githubusercontent.com/90997678/136721711-0f199217-f65a-46a7-9d21-4b02e3c5c3ca.png)
 
 ```
@@ -262,8 +263,6 @@ These steps were selected for their relative ease of use, accessibility, scalabi
 # F. Prelimary Visualizations
 ##### [Return to Table of Contents](#table-of-contents)
 # 1. Logistic Regression: Phishing
-
-
 ## 1.1 Data
 This visualization provides a display of the logistic regression coefficients for the Tan (2018) dataset.
 
@@ -287,6 +286,8 @@ Knowledge of which features are associated with phishing and the strength of the
 
 ## 1.4 Visualization
 **Placeholder visualization due to my technical limitations**
+
+
 ![logistic regression visualization-placeholder](https://user-images.githubusercontent.com/90997678/139608850-b487f801-cd86-42a6-bd1d-2b26be3dec14.png)
 
 # 2. Support Vector Machine: Anomaly Detection
@@ -311,6 +312,8 @@ In implementation scenarios with streaming data, this type of visualization coul
 
 ## 2.4 Visualization
 **Placeholder visualization due to my technical limitations**
+
+
 ![SVM visualization-placeholder](https://user-images.githubusercontent.com/90997678/139608866-c640d77e-86b0-44a9-a1e8-8e7e2bf4fa5a.png)
 
 ```
