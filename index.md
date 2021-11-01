@@ -126,12 +126,12 @@ It is used by academecians, resarchers, practitioners, and others to store, acce
 It stores over 29 million data sets, including thousands covering the intersection of artificial intelligence, machine learning, and cybersecurity.
 
 ## 2. Data Source Justification
-### 2.1 Date Source Justification: Relevancy 1: General
+### 2.1 Date Source Justification: Relevancy: General
 Mendeley Data contains recent data sets for broad cybersecurity threat trends and for specific threats facing small and medium-sized accounting service firms, including phishing and malware.
 
 These data sets are specifically constructed and formatted for the purpose of gaining actionable cybersecurity insights.
 
-### 2.2 Date Source Justification: Relevancy 2: Specific
+### 2.2 Date Source Justification: Relevancy: Specific
 The Tan (2018) dataset provides a data to gain insight into one of the most consequential threats facing small and medium-sized accounting firms: phishing and phishing-based malware.
 
 The Palacio (2018) dataset provides data of network activity designed for the purpose of constructing an anomaly detection system. 
