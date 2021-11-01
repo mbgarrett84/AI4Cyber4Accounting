@@ -161,7 +161,7 @@ This approach is especially accessible and flexible.
 Thousands of academicians, researchers, and practitioners have viewed and downloaded applicable cybersecurity-related data sets from this source to train, test, and calibrate their cybersecurity models and applications.
 
 ## 2. Summary of Data: Phishing Dataset Example
-Tan 2018 Dataset:
+Tan (2018) Dataset:
 
 5000 phishing webpages and 5000 legitimate webpages are provided.
 
@@ -231,7 +231,7 @@ An SVM is used here to analyze anomalies in network traffic.
 ## 2.2 Why This Approach
 SVMs perform well when there is a clear separation of data.
 
-SVMs are flexible. 
+SVMs are flexible: 
   Many versions provide various options for hyperparameter tuning.
   Many varieties of kernel function are available.
 
@@ -250,10 +250,10 @@ Standard SVM algorithms require quantitative data, as distance measures are used
 Linear SVM requires that the data be linearly separable, but adjustments to the kernel function allow for versions of the algorithm to be used with nonlinearly separable data.
 
 ## 2.5 Major Steps and Justification
-A dataset with the appropriate characteristics for this analytic method were selected.
+A dataset with the appropriate characteristics for this analytic method were selected:
   In this instance, the Palacio (2018) dataset was chosen.
 
-In Jupyter Notebook, the appropriate libraries for this technique were imported, along with the dataset.
+In a Jupyter Notebook, the appropriate libraries for this technique were imported, along with the dataset.
 
 An SVM process was run on the data.
 
@@ -285,7 +285,7 @@ The logistic regression coefficients provide the marginal effect of the feature 
 Knowledge of which features are associated with phishing and the strength of these associations can help to highlight which features should receive attention in future analytic and other technical implementations and can inform personnel cybersecurity training.
 
 ## 1.4 Visualization
-**Placeholder visualization due to my technical limitations**
+**Placeholder visualization due to my technical limitations:**
 
 
 ![logistic regression visualization-placeholder](https://user-images.githubusercontent.com/90997678/139608850-b487f801-cd86-42a6-bd1d-2b26be3dec14.png)
@@ -311,7 +311,7 @@ This type of visualization allows one to easily review broad network activity ov
 In implementation scenarios with streaming data, this type of visualization could be included in cybersecurity dashboards to provide quick access and review of network activity and could be used as a tool to help further refine and tune the parameters of the underlying algorithm.
 
 ## 2.4 Visualization
-**Placeholder visualization due to my technical limitations**
+**Placeholder visualization due to my technical limitations:**
 
 
 ![SVM visualization-placeholder](https://user-images.githubusercontent.com/90997678/139608866-c640d77e-86b0-44a9-a1e8-8e7e2bf4fa5a.png)
@@ -327,6 +327,8 @@ Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend
 1. “Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
 2. Statista Research Department. (2021, April 8). Leading accounting firms in the United States in 2020, by U.S. revenue (in billion U.S. dollars). Retrieved September 4, 2021 from https://www.statista.com/statistics/188725/25-largest-us-accounting-firms-by-net-revenue-2010/
 3. Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
+
+
 4.Palacio, Sebastián (2018), “Outlier Detection”, Mendeley Data, V2, doi: 10.17632/g3vxppc8k4.2, Retrieved from https://data.mendeley.com/datasets/g3vxppc8k4/2
 5. Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
 6. Tan, Choon Lin (2018), “Phishing Dataset for Machine Learning: Feature Evaluation”, Mendeley Data, V1, doi: 10.17632/h3cgnj8hft.1. Retrieved from https://data.mendeley.com/datasets/h3cgnj8hft/1
