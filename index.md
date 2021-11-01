@@ -126,7 +126,19 @@ It is used by academecians, resarchers, practitioners, and others to store, acce
 It stores over 29 million data sets, including thousands covering the intersection of artificial intelligence, machine learning, and cybersecurity.
 
 ## 2. Data Source Justification
-### 2.1 Data Source Justification: Accessibility
+### 2.1 Date Source Justification: Relevancy 1: General
+Mendeley Data contains recent data sets for broad cybersecurity threat trends and for specific threats facing small and medium-sized accounting service firms, including phishing and malware.
+
+These data sets are specifically constructed and formatted for the purpose of gaining actionable cybersecurity insights.
+
+### 2.2 Date Source Justification: Relevancy 2: Specific
+The Tan (2018) dataset provides a data to gain insight into one of the most consequential threats facing small and medium-sized accounting firms: phishing and phishing-based malware.
+
+The Palacio (2018) dataset provides data of network activity designed for the purpose of constructing an anomaly detection system. 
+
+This form of automation particularly helpful to small and medium-sized accounting firms, with their numerous, diverse, and dynamic network connections and limited cybersecurity personnel and resourses.
+
+### 2.3 Data Source Justification: Accessibility
 Mendeley Data is highly economically and technically accessible:
 
 Access does not require a subscription or fee.
@@ -135,10 +147,6 @@ Data sets are readily available for download or other extraction, access does no
 
 Data sets are generally formatted for ease of analysis and implementation.
 
-### 2.2 Date Source Justification: Relevancy
-Mendeley Data contains recent data sets for broad cybersecurity threat trends and for specific threats facing small and medium-sized accounting service firms, including phishing and malware.
-
-These data sets are specifically constructed and formatted for the purpose of gaining actionable cybersecurity insights.
 ```
 ```
 # D. Data Collection Strategies and Summary
@@ -163,7 +171,7 @@ The legitimate webpages were determined using Alexa and Common Crawl.
 
 48 features are provided for each webpage.
 
-Features relate to the URL name, content of the webpage, and external services.
+Features relate to the URL name, content of the webpage, and external services, and include both categorical and quatitative data.
 
 **Sample of Tan 2018 Dataset:**
 ![image](https://user-images.githubusercontent.com/90997678/136721711-0f199217-f65a-46a7-9d21-4b02e3c5c3ca.png)
@@ -175,83 +183,135 @@ Features relate to the URL name, content of the webpage, and external services.
 # 1. Logistic Regression: Phishing
 ## 1.1 Introduction
 Logistic regression is a statistical analysis method used to predict the likelihood of a particular categorical response for a given set of independent variables.
+
 The models created through this analysis method can be used for classification.
+
 Logistic regression will be used here for the purposes of creating a model that classifies phishing e-mails.
 ## 1.2 Why This Approach
 The assumptions and steps of some other commonly used statistical analysis methods, such as linear regression, prevent their meaningful or productive use with a binary dependent variable.
+
 Logistic regression models can be trained efficiently, used effectively in the presence of many features, and are easily scalable.
+
 Logistic regression models are used for classification in several AI for cybersecurity domains, including spam and phishing detection.
 ## 1.3 Value Added
 Phishing and phishing-delivered malware constitute one of the most common and costly threats facing small and medium-sized accounting firms.
+
 In this threat context, even marginal improvements in protection can provide substantial value.
+
 Logistic regression-based classification models provide additional and dynamic filtering capabilities compared to traditional dictionary-based approaches.
 
 ## 1.4 Data Sources Required
 Logistic regression requires a labeled dataset to train. 
+
 The dependent variable must be binary.
-Multinomial and ordinal logistic regression allow the dependent variable to take on additional values.
+  Multinomial and ordinal logistic regression allow the dependent variable to take on additional values.
+
 Independent variables can be categorical and quantitative.
+
 The data set should be of at least modest size and should avoid multicollinearity and outliers.
 
 ## 1.5 Major Steps and Justification
+A dataset with appropriate variables was selected for this analytic method.
+  In this instance, the Tan (2018) dataset was chosen.
+
+In a Jupyter Notebook, the appropriate libraries for this method were imported, along with the dataset.
+A logistic regression model was fit to the data.
+
+These steps were selected for their relative ease of use, accessibility, scalability, and applicability.
 
 # 2. Support Vector Machine: Anomaly Detection
 ## 2.1 Introduction
 Anomaly detection is used to detect outliers in data.
-Support vector machines (SVM) are a class of supervised learning algorithms that are used for classification and work by maximizing the margin separating classes of data.
-An SVM is used here to analyze anomalies in network traffic.
 
+Support vector machines (SVM) are a class of supervised learning algorithms that are used for classification and work by maximizing the margin separating classes of data.
+
+An SVM is used here to analyze anomalies in network traffic.
 
 ## 2.2 Why This Approach
 SVMs perform well when there is a clear separation of data.
-SVMs are flexible. 
-Many versions provide various options for hyperparameter tuning.
-Many varieties of kernel function are available.
-SVMs can be more customizable than other anomaly detection methods that primarily rely on summary statistics, for example, analysis based on Gaussian distribution.
 
+SVMs are flexible. 
+  Many versions provide various options for hyperparameter tuning.
+  Many varieties of kernel function are available.
+
+SVMs can be more customizable than other anomaly detection methods that primarily rely on summary statistics, for example, analysis based on Gaussian distribution.
 
 ## 2.3 Value Added
 Anomaly detection systems can greatly assist the efficiency and effectiveness of a firm’s cybersecurity program by automating the task of reviewing large volumes of network activity and presenting only suspicious events for human review.
+
 These benefits are especially salient to small and medium-sized accounting firm, as these firms have numerous, diverse, and dynamic network connections and activity and often limited cybersecurity personnel and resources.
 
 ## 2.4 Data Sources Required
 SVM for anomaly detection uses time-series data.
+
 Standard SVM algorithms require quantitative data, as distance measures are used.
+
 Linear SVM requires that the data be linearly separable, but adjustments to the kernel function allow for versions of the algorithm to be used with nonlinearly separable data.
 
 ## 2.5 Major Steps and Justification
+A dataset with the appropriate characteristics for this analytic method were selected.
+  In this instance, the Palacio (2018) dataset was chosen.
 
+In Jupyter Notebook, the appropriate libraries for this technique were imported, along with the dataset.
+
+An SVM process was run on the data.
+
+These steps were selected for their relative ease of use, accessibility, scalability, and applicability.
 ```
 ```
 # F. Prelimary Visualizations
 ##### [Return to Table of Contents](#table-of-contents)
 # 1. Logistic Regression: Phishing
-## 1.1 Visualization
 
-## 1.2 Data
+
+## 1.1 Data
 This visualization provides a display of the logistic regression coefficients for the Tan (2018) dataset.
-The Tan (2018) data set contains 10,000 webpages, evenly split between phishing and legitimate, and 48 features relating to URL name, content of the webpage, and external services.
 
-## 1.3 Process
+The Tan (2018) data set contains 10,000 webpages, evenly split between phishing and legitimate, and 48 features relating to URL name, content of the webpage, and external services, with both categorical and continuous data.
 
+## 1.2 Process
+A dataset with appropriate variables was selected for this analytic method.
 
-## 1.4 Value
+In this instance, the Tan (2018) dataset was chosen.
+
+In Jupyter Notebook, the appropriate libraries for this technique were imported, along with the dataset.
+
+A logistic regression model was fit to the data.
+
+A bar chart visualization of the regression coefficients was created.
+
+## 1.3 Value
 The logistic regression coefficients provide the marginal effect of the feature in increasing or decreasing the likelihood that the record is associated with phishing.
-Knowledge of which features are associated with phishing and the strength of this association highlights which features should receive attention in future analytic and other technical implementations and can inform personnel cybersecurity training.
 
+Knowledge of which features are associated with phishing and the strength of these associations can help to highlight which features should receive attention in future analytic and other technical implementations and can inform personnel cybersecurity training.
+
+## 1.4 Visualization
+**Placeholder visualization due to my technical limitations**
+![logistic regression visualization-placeholder](https://user-images.githubusercontent.com/90997678/139608850-b487f801-cd86-42a6-bd1d-2b26be3dec14.png)
 
 # 2. Support Vector Machine: Anomaly Detection
-## 2.1 Visualization
-## 2.2 Data
-## 2.3 Process
+## 2.1 Data
+This visualization provides a display of the SVM output when run on the Palacio (2018) data.
+
+This dataset contains time-series data for network activity covering 56 features with both categorical and quantitative data.
+
+## 2.2 Process
 A suitable data set was acquired and prepared.
+
 The Palacio (2018) dataset was used in this instance.
+
 The SVM process was run.
+
 Appropriate parameters were selected, and the events and support vector were selected for display in a scatterplot.
 
-## 2.4 Value
+## 2.3 Value
 This type of visualization allows one to easily review broad network activity over the time period under review and quickly target events outside of normal ranges.
+
 In implementation scenarios with streaming data, this type of visualization could be included in cybersecurity dashboards to provide quick access and review of network activity and could be used as a tool to help further refine and tune the parameters of the underlying algorithm.
+
+## 2.4 Visualization
+**Placeholder visualization due to my technical limitations**
+![SVM visualization-placeholder](https://user-images.githubusercontent.com/90997678/139608866-c640d77e-86b0-44a9-a1e8-8e7e2bf4fa5a.png)
 
 ```
 ```
@@ -259,7 +319,6 @@ In implementation scenarios with streaming data, this type of visualization coul
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Group
 Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, intelligence buy-in, and data source information, performed the analytics process, and created visuals, this slide deck, and the related website.
-
 
 ## 2. Sources
 1. “Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
