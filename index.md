@@ -3,12 +3,10 @@ Disclaimer: All content on this site is for educational purposes only.
 ## Table of Contents
 
 [A. Industry Background](#a-industry-background)
- 
 1. Background on Industry
 2. Threat Trends
 
 [B. Threat Modelling](#b-threat-modelling)
-
 1. Critical Asset Identification
 2. Diamond Models
 3. Intelligence Buy-In
@@ -29,8 +27,22 @@ Disclaimer: All content on this site is for educational purposes only.
 1. Logistic Regression: Phishing
 2. Support Vector Machine: Anomaly Detection
 
-[G. About Us and Sources](#g-about-us-and-references)
+[G. Key Insight Summary](#g-key-insight-summary)
+1. Phishing Model Accuracy
+2. Phishing Indicators
+3. Anomaly Detection
 
+[H. Operational Intelligence](#h-operational-intelligence)
+1. Phishing Model Implementation
+2. Knowledge for Other Activities
+3. Anomaly Detection Implementation
+
+[I. Future Platform Directions](#i-future-platform-directions)
+1. Expand Sources and Update
+2. Deploy and Publish Model
+3. Industry-Specific Activity Data
+
+[J. About Us and Sources](#m-about-us-and-references)
 1. Group
 2. Sources
 
@@ -318,23 +330,96 @@ In implementation scenarios with streaming data, this type of visualization coul
 
 ```
 ```
-# G. About Us and References
+# G. Key Insight Summary
+##### [Return to Table of Contents](#table-of-contents)
+## 1. Phishing Model Accuracy
+The logistic regression model developed here, and similar models developed elsewhere, have a comparatively high degree of accuracy.
+
+Other research has also found a high degree of accuracy using other models and algorithms, though modified logistic regression models might be the most accurate (see, for example, Anandkumar, 2019) .
+
+This implies that these models could be used to supplement rule-based technical and inform personnel training protective measures.
+
+## 2. Phishing Indicators
+The use of logistic regression models provide additional information about individual features.
+
+The logistic regression coefficients provide the marginal effect of the feature in increasing or decreasing the likelihood that the record is associated with phishing.
+
+This information, such as that presented in the logistic regression visualization of regression coefficients in this slide deck, can provide cybersecurity personnel with an ordered list of those features most strongly associated with phishing and information on the relative strength of these associations. 
+
+## 3. Anomaly Detection
+The use of logistic regression models provide additional information about individual features.
+
+The logistic regression coefficients provide the marginal effect of the feature in increasing or decreasing the likelihood that the record is associated with phishing.
+
+This information, such as that presented in the logistic regression visualization of regression coefficients in this slide deck, can provide cybersecurity personnel with an ordered list of those features most strongly associated with phishing and information on the relative strength of these associations. 
+```
+```
+# H. Operational Intelligence
+## 1. Phishing Model Implementation
+The use of logistic regression models provide additional information about individual features.
+
+The logistic regression coefficients provide the marginal effect of the feature in increasing or decreasing the likelihood that the record is associated with phishing.
+
+This information, such as that presented in the logistic regression visualization of regression coefficients in this slide deck, can provide cybersecurity personnel with an ordered list of those features most strongly associated with phishing and information on the relative strength of these associations. 
+
+## 2. Knowledge for Other Activities
+The logistic regression model could be used indirectly by having the results inform other e-mail filtering implementations and personnel training.
+
+These results, providing features most strongly associated with phishing and information on the relative strength of these associations, could be the basis of new rules implemented in rule-based e-mail filtering systems.
+
+These results could also inform anti-phishing training material provided to personnel, with those features with the strongest association with phishing highlighted.
+
+## 3. Anomaly Detection Implementation
+Anomaly detections systems can be implemented for company network and other asset activity.
+
+Anomaly detection systems are often implemented as part of SIEM systems or could added to more limited network, or other asset, monitoring applications.
+
+When activity falls outside of the normal range, that activity could be stopped or slowed, an alert could be sent to security personnel, or highlighted for further review in activity history logs.
+```
+```
+# I. Future Platform Directions
+## 1. Expand Sources and Update
+Anomaly detections systems can be implemented for company network and other asset activity.
+
+Anomaly detection systems are often implemented as part of SIEM systems or could added to more limited network, or other asset, monitoring applications.
+
+When activity falls outside of the normal range, that activity could be stopped or slowed, an alert could be sent to security personnel, or highlighted for further review in activity history logs.
+
+## 2. Deploy and Publish Model
+Anomaly detections systems can be implemented for company network and other asset activity.
+
+Anomaly detection systems are often implemented as part of SIEM systems or could added to more limited network, or other asset, monitoring applications.
+
+When activity falls outside of the normal range, that activity could be stopped or slowed, an alert could be sent to security personnel, or highlighted for further review in activity history logs.
+## 3. Industry-Specific Activity Data
+For the anomaly detection component of the platform, industry-specific data collected from small and medium-sized accounting service firms could be collected, presented, and included in deployments.  
+
+This would aid in providing direct insight from the output of anomaly detection models developed and presented on the platform.
+
+Additionally, these datasets could be used to develop and publish anomaly detection models more directly implementable in these firms’ systems. 
+```
+```
+# J. About Us and References
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Group
-Matt Garrett (garretmb@iu.edu) researched and synthesized industry, threat trend, critical asset, diamond model, intelligence buy-in, and data source information, performed the analytics process, and created visuals, this slide deck, and the related website.
+Matt Garrett (garretmb@iu.edu) researched and synthesized the information for this slide deck and the accompanying website, performed the analytics, created the visualizations, and proposed key insights, operational intelligence, and future directions for the platform. 
 
 ## 2. Sources
-1. “Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
+“Accounting Services Industry in the US – Market Research Report.” IBISWorld, 2021, Retrieved September 4, 2021 from https://www.ibisworld.com/united-states/market-research-reports/accounting-services-industry/
 
-2. Statista Research Department. (2021, April 8). Leading accounting firms in the United States in 2020, by U.S. revenue (in billion U.S. dollars). Retrieved September 4, 2021 from https://www.statista.com/statistics/188725/25-largest-us-accounting-firms-by-net-revenue-2010/
+Anandkumar, Vanitha. (2019). Malicious-URL Detection using Logistic Regression Technique. International Journal of Engineering Business Management. 9. 108-113. 10.31033/ijemr.
+ 
+Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
 
-3. Leonard, Kimberlee. (2019, February 12). How is Information Technology Used in Accounting? Retrieved September 4, 2021, from https://smallbusiness.chron.com/information-technology-used-accounting-2101.html
+Palacio, Sebastián (2018), “Outlier Detection”, Mendeley Data, V2, doi: 10.17632/g3vxppc8k4.2, Retrieved from https://data.mendeley.com/datasets/g3vxppc8k4/2
+ 
+Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
 
-4. Palacio, Sebastián (2018), “Outlier Detection”, Mendeley Data, V2, doi: 10.17632/g3vxppc8k4.2, Retrieved from https://data.mendeley.com/datasets/g3vxppc8k4/2
+Statista Research Department. (2021, April 8). Leading accounting firms in the United States in 2020, by U.S. revenue (in billion U.S. dollars). Retrieved September 4, 2021 from https://www.statista.com/statistics/188725/25-largest-us-accounting-firms-by-net-revenue-2010/
 
-5. Politzer, Malia. (2020, March 16). Top cyberthreats targeting accounting firms. Journal of Accountancy. Retrieved September 4, 2021, from https://www.journalofaccountancy.com/newsletters/2020/mar/top-cyberthreats-accounting-firms.html
+Tan, Choon Lin (2018), “Phishing Dataset for Machine Learning: Feature Evaluation”, Mendeley Data, V1, doi: 10.17632/h3cgnj8hft.1. Retrieved from https://data.mendeley.com/datasets/h3cgnj8hft/1
 
-6. Tan, Choon Lin (2018), “Phishing Dataset for Machine Learning: Feature Evaluation”, Mendeley Data, V1, doi: 10.17632/h3cgnj8hft.1. Retrieved from https://data.mendeley.com/datasets/h3cgnj8hft/1
+
 
 
 
