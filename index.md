@@ -42,7 +42,7 @@ Disclaimer: All content on this site is for educational purposes only.
 2. Deploy and Publish Model
 3. Industry-Specific Activity Data
 
-[J. About Us and Sources](#m-about-us-and-references)
+[J. About Us and Sources](#j-about-us-and-references)
 1. Group
 2. Sources
 
@@ -272,7 +272,7 @@ An SVM process was run on the data.
 These steps were selected for their relative ease of use, accessibility, scalability, and applicability.
 ```
 ```
-# F. Prelimary Visualizations
+# F. Preliminary Visualizations
 ##### [Return to Table of Contents](#table-of-contents)
 # 1. Logistic Regression: Phishing
 ## 1.1 Data
