@@ -355,6 +355,7 @@ This information, such as that presented in the logistic regression visualizatio
 ```
 ```
 # H. Operational Intelligence
+##### [Return to Table of Contents](#table-of-contents)
 ## 1. Phishing Model Implementation
 The use of logistic regression models provide additional information about individual features.
 
@@ -378,6 +379,7 @@ When activity falls outside of the normal range, that activity could be stopped 
 ```
 ```
 # I. Future Platform Directions
+##### [Return to Table of Contents](#table-of-contents)
 ## 1. Expand Sources and Update
 Anomaly detections systems can be implemented for company network and other asset activity.
 
