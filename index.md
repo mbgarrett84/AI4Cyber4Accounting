@@ -144,7 +144,7 @@ Mendeley Data contains recent data sets for broad cybersecurity threat trends an
 These data sets are specifically constructed and formatted for the purpose of gaining actionable cybersecurity insights.
 
 ### 2.2 Date Source Justification: Relevancy: Specific
-The Tan (2018) dataset provides a data to gain insight into one of the most consequential threats facing small and medium-sized accounting firms: phishing and phishing-based malware.
+The Tan (2018) dataset provides data to gain insight into one of the most consequential threats facing small and medium-sized accounting firms: phishing and phishing-based malware.
 
 The Palacio (2018) dataset provides data of network activity designed for the purpose of constructing an anomaly detection system. 
 
