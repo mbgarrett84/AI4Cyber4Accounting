@@ -381,18 +381,17 @@ When activity falls outside of the normal range, that activity could be stopped 
 # I. Future Platform Directions
 ##### [Return to Table of Contents](#table-of-contents)
 ## 1. Expand Sources and Update
-Anomaly detections systems can be implemented for company network and other asset activity.
+For the phishing component of the platform, additional data sources, research, and news could be added.
 
-Anomaly detection systems are often implemented as part of SIEM systems or could added to more limited network, or other asset, monitoring applications.
+The current data source is primarily oriented to academic and testing data sets, but additional data sources could be included in periodic updates increase the diversity and timeliness of data.
 
-When activity falls outside of the normal range, that activity could be stopped or slowed, an alert could be sent to security personnel, or highlighted for further review in activity history logs.
+Additionally, links to phishing research and news could be added to provide additional context, help with interpretation, and the highlighting of current trends.
 
 ## 2. Deploy and Publish Model
-Anomaly detection systems can be implemented for company network and other asset activity.
+In addition to providing periodic updates, the phishing component of the platform could be updated to publish implementable models.
 
-Anomaly detection systems are often implemented as part of SIEM systems or could added to more limited network, or other asset, monitoring applications.
+These models could be made available through various means, such as through script files or APIs and code files for specific e-mail applications.
 
-When activity falls outside of the normal range, that activity could be stopped or slowed, an alert could be sent to security personnel, or highlighted for further review in activity history logs.
 ## 3. Industry-Specific Activity Data
 For the anomaly detection component of the platform, industry-specific data collected from small and medium-sized accounting service firms could be collected, presented, and included in deployments.  
 
