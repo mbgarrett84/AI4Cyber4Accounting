@@ -122,7 +122,7 @@ Small and medium-sized accounting service firms often have high demand for limit
 
 The implementation of AI automation for cybersecurity tasks will help to free cybersecurity resources and personnel for higher priority tasks.
 
-The large number of client, vendor, and other third-party accounts, communication channels, and system connections limits the ability of cybersecurity personnel to detect     anomalous patterns in related activity data.
+The large number of client, vendor, and other third-party accounts, communication channels, and system connections limit the ability of cybersecurity personnel to detect     anomalous patterns in related activity data.
 
 The implementation of AI pattern recognition can help cybersecurity personnel to find actionable patterns in this voluminous activity data. 
 
@@ -388,7 +388,7 @@ Anomaly detection systems are often implemented as part of SIEM systems or could
 When activity falls outside of the normal range, that activity could be stopped or slowed, an alert could be sent to security personnel, or highlighted for further review in activity history logs.
 
 ## 2. Deploy and Publish Model
-Anomaly detections systems can be implemented for company network and other asset activity.
+Anomaly detection systems can be implemented for company network and other asset activity.
 
 Anomaly detection systems are often implemented as part of SIEM systems or could added to more limited network, or other asset, monitoring applications.
 
