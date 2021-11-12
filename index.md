@@ -285,7 +285,7 @@ A dataset with appropriate variables was selected for this analytic method.
 
 In this instance, the Tan (2018) dataset was chosen.
 
-In Jupyter Notebook, the appropriate libraries for this technique were imported, along with the dataset.
+In a Jupyter Notebook, the appropriate libraries for this technique were imported, along with the dataset.
 
 A logistic regression model was fit to the data.
 
@@ -383,7 +383,7 @@ When activity falls outside of the normal range, that activity could be stopped 
 ## 1. Expand Sources and Update
 For the phishing component of the platform, additional data sources, research, and news could be added.
 
-The current data source is primarily oriented to academic and testing data sets, but additional data sources could be included in periodic updates increase the diversity and timeliness of data.
+The current data source is primarily oriented to academic and testing data sets, but additional data sources could be included in periodic updates to increase the diversity and timeliness of data.
 
 Additionally, links to phishing research and news could be added to provide additional context, help with interpretation, and the highlighting of current trends.
 
